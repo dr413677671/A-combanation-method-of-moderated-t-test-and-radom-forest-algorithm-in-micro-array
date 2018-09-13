@@ -32,8 +32,8 @@ Bugs
 
 If you find a bug, please try to reproduce it with R 3.4.4 and latest bioconductor.
 
-If it happens there also, please file a bug in the bioconductor issue tracker.
-If it does not happen in 3.5.3, file a bug to 413677671@qq.com.
+If it does not happen in 3.6.5, please file a bug in the python issue tracker.
+If it happens there also, file a bug to 413677671@qq.com.
 
 
 Ran Duan
