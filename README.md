@@ -12,7 +12,7 @@ Compared the results of two groupings
 
 
 
-As of Python >= 3.4.4, the script require some R standard library. For users who still need to support several packages are required: 
+As of R >= 3.4.4, the script require some R standard library. For users who still need to support several packages are required: 
 pd.hta.2.0, stringr , GEOquery, simpleaffy, GenomicRanges, oligoClasses, oligo, oligoData, RColorBrewer, affyPLM, ggplot2, limma, topGO, clusterProfiler, Rgraphviz and randomForest
 
 
