@@ -1,6 +1,6 @@
 # A combanation method of moderated t-test and radom forest algorithm in micro-array
 
-# The pipeline consists of 5 main functions: DE transcripts identification, random forest model, functional genes annotation, sub-group distinguish, and GO/KEGG annotation.
+%% The pipeline consists of 5 main functions: DE transcripts identification, random forest model, functional genes annotation, sub-group distinguish, and GO/KEGG annotation.
 
 Introduction
 -------------
